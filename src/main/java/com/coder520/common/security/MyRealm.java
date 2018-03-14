@@ -15,7 +15,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import javax.servlet.http.HttpSession;
 
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/7/2.
+ * Created by wangzhx 2017/11/20.
  */
 public class MyRealm extends AuthorizingRealm{
 

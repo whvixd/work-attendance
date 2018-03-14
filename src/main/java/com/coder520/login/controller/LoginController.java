@@ -17,7 +17,7 @@ import java.io.UnsupportedEncodingException;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/6/17.
+ * Created by wangzhx 2017/11/20.
  */
 @Controller
 @RequestMapping("login")

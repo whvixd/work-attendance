@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 import java.util.Timer;
 
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/6/20.
+ * Created by wangzhx 2017/11/20.
  */
 @Controller
 @RequestMapping("attend")

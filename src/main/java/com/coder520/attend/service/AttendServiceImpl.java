@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.logging.Logger;
 
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/6/20.
+ * Created by wangzhx 2017/11/20.
  */
 @Service("attendServiceImpl")
 public class AttendServiceImpl implements AttendService{

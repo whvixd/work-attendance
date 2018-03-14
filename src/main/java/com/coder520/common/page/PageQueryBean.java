@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 分页查询bean
  * 
- * @author weidc
+ * @author wangzhx
  */
 public class PageQueryBean {
 

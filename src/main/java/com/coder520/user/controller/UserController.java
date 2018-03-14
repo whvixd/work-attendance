@@ -11,9 +11,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpSession;
-
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/6/16.
+ * Created by wangzhx 2017/11/20.
  */
 @Controller
 @RequestMapping("user")

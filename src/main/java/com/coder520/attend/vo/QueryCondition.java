@@ -1,9 +1,8 @@
 package com.coder520.attend.vo;
 
 import com.coder520.common.page.PageQueryBean;
-
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/6/22.
+ * Created by wangzhx 2017/11/20.
  */
 public class QueryCondition  extends PageQueryBean{
 

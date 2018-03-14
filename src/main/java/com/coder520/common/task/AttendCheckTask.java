@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import java.util.List;
 
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/6/25.
+ * Created by wangzhx 2017/11/20.
  */
 public class AttendCheckTask {
 

@@ -23,9 +23,8 @@ import java.util.Map;
 /**
  * 补签实现类
  *
- * @author wangjianbin
- * @create 2017-06-28 17:23
- **/
+ * Created by wangzhx 2017/11/29.
+ */
 @Service
 public class ReAttendServiceImpl implements ReAttendService{
 

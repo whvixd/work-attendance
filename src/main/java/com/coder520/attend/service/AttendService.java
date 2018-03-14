@@ -5,7 +5,7 @@ import com.coder520.attend.vo.QueryCondition;
 import com.coder520.common.page.PageQueryBean;
 
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/6/20.
+ * Created by wangzhx 2017/11/20.
  */
 public interface AttendService {
 

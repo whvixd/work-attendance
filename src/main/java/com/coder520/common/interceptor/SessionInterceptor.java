@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * Created by JackWangon[www.aiprogram.top] 2017/6/18.
+ * Created by wangzhx 2017/11/20.
  */
 public class SessionInterceptor implements HandlerInterceptor{
     @Override

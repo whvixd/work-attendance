@@ -14,9 +14,8 @@ import java.security.NoSuchAlgorithmException;
 /**
  * 自定义密码验证
  *
- * @author wangjianbin
- * @create 2017-07-03 16:55
- **/
+ * Created by wangzhx 2017/11/20.
+ */
 public class CustomCredentialsMatcher extends SimpleCredentialsMatcher{
 
     @Override

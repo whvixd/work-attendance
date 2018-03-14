@@ -3,9 +3,8 @@ package com.coder520.workflow.service;
 import com.coder520.workflow.entity.ReAttend;
 
 import java.util.List;
-
 /**
- * Created by wangjianbin on 2017/6/28.
+ * Created by wangzhx 2017/11/29.
  */
 public interface ReAttendService {
 

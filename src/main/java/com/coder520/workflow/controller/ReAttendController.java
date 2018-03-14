@@ -24,9 +24,8 @@ import java.util.Map;
 /**
  * 补签工作流控制器
  *
- * @author wangjianbin
- * @create 2017-06-28 17:21
- **/
+ * Created by wangzhx 2017/11/28.
+ */
 @Controller
 @RequestMapping("reAttend")
 public class ReAttendController {
